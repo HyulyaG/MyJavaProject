@@ -8,5 +8,7 @@ public class Main {
         System.out.println("2nd class");
 
         System.out.println("3rd class");
+
+        System.out.println("4th class");
     }
 }
